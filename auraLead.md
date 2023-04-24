@@ -1,0 +1,1 @@
+Este é um componente do Lightning para criação de um novo registro Lead no Salesforce. O componente inclui um formulário de edição e um botão "Criar Lead" que envia o registro para o banco de dados. Após o registro ser criado com sucesso, o componente exibe uma mensagem de sucesso usando o evento "show toast" do Lightning e atualiza a página atual usando o evento "refresh view".
